@@ -164,7 +164,7 @@
 .GitUserContainer button a {
     text-decoration: none;
     color: #336;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .GitUserContainer button:hover {
