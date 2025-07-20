@@ -129,6 +129,7 @@
     box-shadow: 0px 4px 8px #c2cb11;
     transition: transform 0.5s ease-in-out;
 }
+
 .GitUserContainer:hover{
     transform: scale(1.07);
     /* transform: rotate(360deg); */
@@ -149,7 +150,7 @@
 }
 
 .GitUserContainer img:hover{
-    transform : scale(1.2);
+    transform : scale(1.1);
 }
 
 .GitUserContainer button {
@@ -169,6 +170,7 @@
 .GitUserContainer button:hover {
     background-color: lightgray;
 }
+
 
 
 
